@@ -1,6 +1,0 @@
-packages:
-  ./
-
-test-show-details: direct
-
-tests: True
